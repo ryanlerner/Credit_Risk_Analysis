@@ -16,4 +16,23 @@ This analysis was intended to predict credit risk with various machine learning 
   - Recall Score: 65%
 
 ### Undersampling
-- 
+- ClusterCentroids
+  - Balanced Accuracy Score: 53%
+  - Precision Score: 99%
+  - Recall Score: 45%
+
+### Combination (Over and Under) Sampling
+- SMOTEENN
+  - Balanced Accuracy Score: 64%
+  - Precision Score: 99%
+  - Recall Score: 56%
+ 
+### Ensemble Learners
+- Balanced Random Forest Classifier
+  - Balanced Accuracy Score: 79%
+  - Precision Score: 99%
+  - Recall Score: 91%
+- Easy Ensemble AdaBoost Classifier
+  - Balanced Accuracy Score: 93%
+  - Precision Score: 99%
+  - Recall Score: 94%
