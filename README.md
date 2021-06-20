@@ -36,3 +36,6 @@ This analysis was intended to predict credit risk with various machine learning 
   - Balanced Accuracy Score: 93%
   - Precision Score: 99%
   - Recall Score: 94%
+
+## Summary
+Based on the results above, it appears that the Ensemble Learners are the most effective in predicting credit risk in terms of their accuracy and recall scores. The precision scores for all six models used are very similar, but the accuracy scores for the ensemble learning models are much higher. Based on these scores, the Easy Ensemble AdaBoost Classifier is the most accurate in predicting credit risk with a score of 93%, while the recall score is also highest at 94%. 
